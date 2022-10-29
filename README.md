@@ -1,3 +1,2 @@
-# GWA_Computation_System
-ITE 031 - Data Stuctures and Algorithms P3 Group Project | GWA Computation System
-ITE 031 FINAL PROJECT, GWA Computation System. This system allows you to compute your grade and determine if you have passed or failed your studies! Algorithms Used: Stack Push (for inserting grades), Stack Pop (for removing most recent grade), Sort (for sorting grades), Condional Statements (to detrrmine if pass or fail), and Basic arithmetic operations.
+This GWA calculator enables you to input all the grades in your subjects that you’ve completed.
+A GWA (General Weighted Average) represents your overall academic performance for a semester or an academic year. It is based on the grades that you have obtained from your classes and the corresponding number of units of each class.This GWA Calculator will be helpful in every students and also teachers to compute their GWA quickly.Just simply click Compute and the GWA calculator will automatically calculate your General Weighted Average.
